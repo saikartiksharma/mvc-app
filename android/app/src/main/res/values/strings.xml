@@ -1,0 +1,9 @@
+<!-- android/app/src/main/res/values/strings.xml -->
+<resources>
+    <string name="app_name">TrackerBuddy</string>
+    <!-- Make sure your app_name is correct or add it if missing -->
+
+    <!-- Add this line for the default FCM notification channel ID -->
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <!-- You can name "fcm_default_channel" anything unique, but it must match what you use in Dart -->
+</resources>
